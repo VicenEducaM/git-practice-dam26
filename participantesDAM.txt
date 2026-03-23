@@ -5,11 +5,9 @@ TheSekion 16/03/2026 (Joaquín Lara Lozano)
 calebgonzalezm 17/03/26
 DanielMartinCrespo 19/03/2026
 DiegoSancTor 21/03/2026
-<<<<<<< main
-SebastianSolaUz 23/03/2026
-=======
 ELMARCONFLO (Marcos Pérez Sánchez) - 21/03/2026
 artugonmo2007-creator 22/3/2026
 PabloNietoLucero 22/03/2026
 AngelFF 23/03/2026
->>>>>>> main
+SebastianSolaUz 23/03/2026
+serranoruben611-sys 23/03/2026
